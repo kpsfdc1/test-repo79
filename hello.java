@@ -1,7 +1,7 @@
-class hello
+class hello 
 {
 	public static void main()
 	{
-		system.out.prinln("hello..modify);
+		system.out.prinln("hello..);
 	}
 }
